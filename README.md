@@ -2,8 +2,8 @@
 
 <h1 align="center">Welcome to my profile!</h1>
 
-### About me
-<p>I'm <b>makwells</b>, a Fullstack developer from 🇷🇺 <b>Russia</b>.</p>
+### :bear: About me
+<p>I'm <b>makwells</b>, a Fullstack developer from :ru: <b>Russia</b>.</p>
 
 ### 🍄 What I use in development?
 
@@ -16,7 +16,7 @@
 ![CSS Badge](https://img.shields.io/badge/-CSS-darked?style=flat-square&logo=css&logoColor=black&color=%23ffffff)
 ![Firefox Badge](https://img.shields.io/badge/-Firefox-darked?style=flat-square&logo=firefox&logoColor=black&color=%23ffffff)
 
-### Statistics
+### :blue_book: Statistics
 ![makwells GitHub stats](https://github-readme-stats.vercel.app/api?username=makwells&show_icons=true&theme=graywhite)
 
 
